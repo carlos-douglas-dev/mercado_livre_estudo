@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031000290501",
+    "project_id": "mercado-livre-aula-bf501",
+    "storage_bucket": "mercado-livre-aula-bf501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031000290501:android:34364562bb829b7912acac",
+        "android_client_info": {
+          "package_name": "com.example.mercadolivreaula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031000290501-i9qef569hrm3ucudcivopbk0ikuh3g23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVUpapF5N0fx5EXA0o6ak1fthG1oVuouI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031000290501-i9qef569hrm3ucudcivopbk0ikuh3g23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
